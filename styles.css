@@ -1,0 +1,42 @@
+html
+{
+    background-color: burlywood;
+    color: black
+}
+h1
+{
+    font-size: 35px;
+    text-align: center;
+    color: gold
+}
+p
+{
+    font-size: 25px;
+    text-align: center;
+    color: ghostwhite
+}
+.div1
+{
+    background-color: blue;
+    
+}
+.div2 
+{
+    background-color: red;
+    
+ }
+ .div3
+ {
+    background-color: darkblue;
+    
+ }
+ .div4
+ {
+    background-color: darkred;
+   
+ }
+ .div5
+ {
+    background-color: forestgreen;
+    
+ }
