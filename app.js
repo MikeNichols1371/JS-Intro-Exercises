@@ -9,11 +9,15 @@ Last Name: ${lastName}
  Age: ${age}`;
 
 //Exercise 2
-let test = "mike"
+let test = "Mike";
 lastName = "Nichols";
 age = 25;
-let exercise2 = document.getElementById("E2");
-exercise2.innerHTML= `First Name: ${test} Last Name: ${lastName} Age: ${age}`;
+let exercise2 = 
+document.getElementById("E2");
+exercise2.innerHTML=
+ `First Name: ${test}
+  Last Name: ${lastName}
+   Age: ${age}`;
 
 //Exercise 3 
 let language = "JavaScript";
